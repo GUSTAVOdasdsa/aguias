@@ -1,0 +1,16 @@
+body {
+    background-image: url("aguia.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media screen and (max-width: 992px) {
+    body {
+        background-image: url("aguia.png");
+    }
+  }
+  
+  @media screen and (max-width: 375px) {
+    body {
+        background-image: url("aguia2.png");
+    }
+  }
